@@ -8,9 +8,9 @@ with open('requirements.txt',encoding='UTF-16') as f:
     
 
 setup(
-   name='assignment_nl',
+   name='assignment_rl',
    version='1.0',
-   description='Assignment for RL',
+   description='Assignment',
    url='https://github.com/guidoca/assignment_rl.git',
    author='Guillermo J. Dominguez C.', 
    packages=['assignment_rl'], 
