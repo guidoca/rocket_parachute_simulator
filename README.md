@@ -1,4 +1,4 @@
-# assignment_rl
+# rocket_parachute_simulator
 
 To install, simply run pip install . on the directory
 
@@ -8,4 +8,4 @@ Requested images are stored in ./demo/low_fidelity/images
 Currenlty only works with 3DOF. 5DOF imppementation pending
 
 Verifications can be performed by running the following command
-     "/tools/assignment_rl/.venv/bin/python -m unittest discover assignment_rl" to check the correct functioning
+     "/tools/rocket_parachute_simulator/.venv/bin/python -m unittest discover rocket_parachute_simulator" to check the correct functioning
